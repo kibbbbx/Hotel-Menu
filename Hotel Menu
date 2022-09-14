@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="em">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equip="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylish Hotel Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <ul>
+            <li style="--clr:#f7650a"><a href="#" data-text="&nbsp;Home&nbsp;">&nbsp;Home</a></li>
+            <li style="--clr:#ff6493"><a href="#" data-text="&nbsp;Rooms&nbsp;">&nbsp;Rooms</a></li>
+            <li style="--clr:#0ef70a"><a href="#" data-text="&nbsp;Foods&nbsp;">&nbsp;Foods</a></li>
+            <li style="--clr:#00ade1"><a href="#" data-text="&nbsp;Spa&nbsp;">&nbsp;Spa</a></li>
+            <li style="--clr:#eb170a"><a href="#" data-text="&nbsp;Booking&nbsp;">&nbsp;Booking</a></li>
+        </ul>
+    </div>
+</body>
+</html>
+<!-- you need to use &nbsp; to create spaces.
